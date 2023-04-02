@@ -1,0 +1,1 @@
+token='' #sua key gerada no discord developer
