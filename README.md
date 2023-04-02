@@ -20,7 +20,7 @@ Instale python 3.10
 ## Referência
 
  - [Feito Sobre Discord.py](https://discordpy.readthedocs.io/en/stable/api.html#discord.Client.fetch_guild)
- 
+ - [Discord de grande ajuda](https://discord.gg/elixirlab)
 
 ## Autores
 
